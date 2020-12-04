@@ -1,0 +1,13 @@
+[12/04/2020, 04:10:32 PM] INFO (hyperopt.utils/MainThread) Failed to load dill, try installing dill via "pip install dill" for enhanced pickling support.
+[12/04/2020, 04:10:32 PM] INFO (hyperopt.fmin/MainThread) Failed to load dill, try installing dill via "pip install dill" for enhanced pickling support.
+[12/04/2020, 04:10:32 PM] INFO (nni.msg_dispatcher_base/MainThread) Start dispatcher
+[12/04/2020, 04:10:32 PM] INFO (hyperopt.tpe/Thread-1) tpe_transform took 0.000964 seconds
+[12/04/2020, 04:10:32 PM] INFO (hyperopt.tpe/Thread-1) TPE using 0 trials
+[12/04/2020, 04:30:39 PM] INFO (hyperopt.tpe/Thread-1) tpe_transform took 0.012935 seconds
+[12/04/2020, 04:30:39 PM] INFO (hyperopt.tpe/Thread-1) TPE using 1/1 trials with best loss -10.280000
+[12/04/2020, 04:50:24 PM] INFO (hyperopt.tpe/Thread-1) tpe_transform took 0.024961 seconds
+[12/04/2020, 04:50:24 PM] INFO (hyperopt.tpe/Thread-1) TPE using 2/2 trials with best loss -96.830000
+[12/04/2020, 05:09:01 PM] INFO (hyperopt.tpe/Thread-1) tpe_transform took 0.003989 seconds
+[12/04/2020, 05:09:01 PM] INFO (hyperopt.tpe/Thread-1) TPE using 3/3 trials with best loss -99.110000
+[12/04/2020, 05:27:47 PM] INFO (hyperopt.tpe/Thread-1) tpe_transform took 0.001993 seconds
+[12/04/2020, 05:27:47 PM] INFO (hyperopt.tpe/Thread-1) TPE using 4/4 trials with best loss -99.110000
